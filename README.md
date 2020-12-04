@@ -1,7 +1,7 @@
 # Graduation_outcome
 Repo Graduation_outcome
 
-you can find the data set here [link](https://catalog.data.gov/dataset/regents-exam-results)
+you can find the data set in here [link](https://catalog.data.gov/dataset/regents-exam-results) or  [here](https://data.cityofnewyork.us/browse?tags=exams)
 
 
 **Description:**<br>
