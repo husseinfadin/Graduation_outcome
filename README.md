@@ -15,3 +15,5 @@ Due to the small number of students identified as Native American or Multi-Racia
 Charter schools are not included in the NYSED calculation of graduation rates for NYC.<br> 
 School level results are not presented for District 79 and District 75 schools, but their outcomes are included in citywide totals.<br>
 Starting with the 2009 cohort (Class of 2013), students with IEPs could use the compensatory score option (CSO) to meet graduation requirements, which contributed to an increase in the graduation rate.<br> Students are considered English Language Learners by NY State if classified as an ELL as of graduation.
+
+you can find information about the columns in Regents_DD.xlsx.
