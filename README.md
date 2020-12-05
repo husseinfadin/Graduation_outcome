@@ -3,6 +3,7 @@ Repo Graduation_outcome
 
 you can find the data set in here [link](https://catalog.data.gov/dataset/regents-exam-results) or  [here](https://data.cityofnewyork.us/browse?tags=exams)
 
+in order to see the charts you can host them on NBviewer  and i left pdf file as well to see it.
 
 **Description:**<br>
 Graduation results for all students by year; cohorts of 2001 through 2011 (Classes of 2005 through 2015).
